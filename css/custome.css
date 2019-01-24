@@ -1,0 +1,21 @@
+body{
+    font-family: 'Baloo Thambi', cursive;
+}
+
+.form-container{
+    background: #fff;
+    padding:30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 #000;
+}
+
+header{
+    padding:15px;
+    background:#3e4249;
+    color:#ccc;
+    border-bottom: 1px solid #080808;
+}
+
+.main{
+    margin-top: 10px;
+}
